@@ -1,0 +1,7 @@
+*****************READ ME************
+Keep the code and dataset in the same directory and it should pick automatically if it does not 
+change the path in code 
+"dataset1 = pd.read_csv('"FILE_PATH_HERE/"dataset_to_447109517.csv').drop(columns=['name'], errors='ignore')
+dataset2 = pd.read_csv('""FILE_PATH_HERE/"kaggle_Int_755833365.csv').drop(columns=['name'], errors='ignore')"
+change the code in the file.
+**********************END*****************
